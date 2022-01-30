@@ -7,6 +7,10 @@ CPU: i7-10510u
 
 Network Card：BCM94352Z
 
+## 2022-01-30
+
+更新opencore -> 7.7
+
 ## 2021-11-15
 
 更新引导，可升级至macOS 12；
