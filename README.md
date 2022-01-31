@@ -7,6 +7,10 @@ CPU: i7-10510u
 
 Network Card：BCM94352Z
 
+## 2022-01-31
+
+解决无法收到最新系统更新的问题（使用RestrictEvents.kext）
+
 ## 2022-01-30
 
 更新opencore -> 7.7
